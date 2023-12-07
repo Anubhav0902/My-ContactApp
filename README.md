@@ -9,6 +9,9 @@ The Contact App is a web application designed for efficient contact management. 
 - **Firebase:** Backend service for user authentication and data storage.
 - **React Router:** For handling navigation within the app.
 - **React Toastify:** Displaying toast notifications for user feedback.
+- **Daisy UI:** UI components library for React applications.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+
 
 ## Features
 
